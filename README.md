@@ -56,6 +56,7 @@ ConvoSphere is a real-time discord clone built using MERN stack, WebRTC, and Soc
 ## Screenshots
 
 - Registration Page
+<img width="1512" alt="Screenshot 2023-11-11 at 12 13 49 PM" src="https://github.com/DhavalMavani/discord/assets/61201815/06422d67-43f9-4357-8d76-3aaae3dbb17a">
 
 ![Create Account](https://user-images.githubusercontent.com/126965816/233789208-127b5968-6f24-4438-a450-47f29338e2c8.png)
 
