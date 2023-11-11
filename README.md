@@ -1,12 +1,11 @@
 
-# ConvoSphere
+# Discord
 
-ConvoSphere is a real-time discord clone built using MERN stack, WebRTC, and Socket.IO. 
+It is a real-time discord clone built using MERN stack, WebRTC, and Socket.IO. 
+
 
 
 ## Features
-
-
 - Authentication using JWT
 - Create separate voice rooms and chat in real-time with other users
 - Video calling , voice calling , screensharing using WebRTC
@@ -14,8 +13,8 @@ ConvoSphere is a real-time discord clone built using MERN stack, WebRTC, and Soc
 - Friend Adding Functionality
 - Easy to use UI
 
-## Tech Stack
 
+## Tech Stack
 - MongoDB
 - Express
 - React
@@ -26,12 +25,10 @@ ConvoSphere is a real-time discord clone built using MERN stack, WebRTC, and Soc
 ## Getting Started
 
 ### Prerequisites
-
 - Node.js
 
 
 ### Installation
-
 1. Install NPM packages
     ```
     npm install
@@ -55,21 +52,17 @@ ConvoSphere is a real-time discord clone built using MERN stack, WebRTC, and Soc
 
 ## Screenshots
 
+
 - Registration Page
-<img width="1512" alt="Screenshot 2023-11-11 at 12 13 49 PM" src="https://github.com/DhavalMavani/discord/assets/61201815/06422d67-43f9-4357-8d76-3aaae3dbb17a">
+ ![Create Account](https://github.com/DhavalMavani/discord/assets/61201815/2c610c3c-39bf-4e6d-8863-d9655567d267)
 
-![Create Account](https://user-images.githubusercontent.com/126965816/233789208-127b5968-6f24-4438-a450-47f29338e2c8.png)
-
-- Friend adding functionality
-
-![add friend](https://user-images.githubusercontent.com/126965816/233789287-029339b3-4e2d-4fa6-bfd7-36febc8cc384.png)
+- Invite a Friend
+![add friend](https://github.com/DhavalMavani/discord/assets/61201815/acd843e9-7a7c-430b-90eb-3db42f279aa6)
+![Invitation](https://github.com/DhavalMavani/discord/assets/61201815/f21fcda6-f3e8-4317-a7be-0fbc8c464a94)
 
 - Chat functionality
-
-![homepage frnd request](https://user-images.githubusercontent.com/126965816/233789316-7bc4d50d-ec38-4da1-96f2-0629365f7bbf.png)
+![homepage frnd request](https://github.com/DhavalMavani/discord/assets/61201815/5c3df664-02bc-446e-b0fa-077d2542d408)
 
 - Video room creation and screenshare functionality
-
-![video room creation](https://user-images.githubusercontent.com/126965816/233789377-d03fbb26-a158-429f-9891-846097e87c37.png)
-
-![screenshare functionality](https://user-images.githubusercontent.com/126965816/233789398-37de7dfb-eca5-4f6d-ada0-e12aa95ba86b.png)
+![video room creation](https://github.com/DhavalMavani/discord/assets/61201815/a073b696-83fc-465f-8ba5-db8332f04471)
+![screenshare functionality](https://github.com/DhavalMavani/discord/assets/61201815/184743e8-e02d-4a0e-abd7-61dc80053356)
