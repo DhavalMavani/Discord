@@ -66,3 +66,7 @@ It is a real-time discord clone built using MERN stack, WebRTC, and Socket.IO.
 - Video room creation and screenshare functionality
 ![video room creation](https://github.com/DhavalMavani/Discord/assets/61201815/b9ad41e2-4b89-4a67-a9ee-0ecf52acf9fe)
 ![screenshare functionality](https://github.com/DhavalMavani/Discord/assets/61201815/98688f03-1814-48b8-bf6c-0f5b42adbfc7)
+
+## 🔗 Let's Connect
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaval-mavani-a593571bb/)
+
